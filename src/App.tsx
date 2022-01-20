@@ -1,12 +1,14 @@
 import React from "react";
 import "./App.css";
-import Form1 from "./container/form1";
+import Form from "./pratise/form";
 
 function App() {
 	return (
 		<div>
 			{/* <Form /> */}
-			<Form1 />
+			{/* <Form1 /> */}
+			{/* <Obj /> */}
+			<Form />
 			{/* <ApiCall /> */}
 		</div>
 	);

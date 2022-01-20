@@ -1,0 +1,14 @@
+button {
+	border-radius: 50%;
+	color: white;
+	background-color: rgb(179, 154, 122);
+	font-size: medium;
+	font-weight: 900;
+}
+
+.cal {
+	top: 50;
+	left: 50;
+	margin-left: 50%;
+	background-color: blueviolet;
+}

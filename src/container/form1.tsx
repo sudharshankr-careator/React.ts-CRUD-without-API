@@ -47,7 +47,7 @@ function Form1(Data: any) {
 		let index = data.findIndex((val: any) => val.id == id);
 		let newData = data.filter((val: any) => val.id !== id);
 		setData(newData);
-		setUpdate(false);
+		//setUpdate(false);
 	};
 	return (
 		<div>
